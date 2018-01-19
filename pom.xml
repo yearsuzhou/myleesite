@@ -5,7 +5,13 @@
     <groupId>com.suzhou</groupId>
     <artifactId>myleesite</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    
+    <modules>
+        <module>myleesite-dependencise</module>
+        <module>myleesite-parent</module>
+        <module>myleesite-database</module>
+        <module>myleesite-modules</module>
+    </modules>
+
     <packaging>pom</packaging>
 
     <name>myleesite</name>
